@@ -1,8 +1,6 @@
-# Cleanfolio Minimal
+# Alfonso's Portfolio
 
-## Alfonso's portfolio
-
-### Preview
+## Preview
 
 https://alfonsonango.github.io/
 
